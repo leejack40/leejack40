@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/leejack40/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/leejack40/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/leejack40/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/leejack40/azure-network-protocols)
+  - [Azure Active Directory Setup: Implementing On-Premises Configuration in Virtual Machines](https://github.com/leejack40/configure-ad)
+  - [Securing Networks: NSGs and Protocol Inspection in Azure Virtual Environments](https://github.com/leejack40/azure-network-protocols)
   - [Configuring Secure Connectivity: Virtual Machine Deployment and VPN Setup in Microsoft Azure](https://github.com/leejack40/VPN-Setup)
   - [Understanding and Implementing DNS Management Techniques in Microsoft Azure](https://github.com/leejack40/DNS-Management)
 
