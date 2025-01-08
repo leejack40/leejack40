@@ -15,6 +15,7 @@
   - [Securing Networks: NSGs and Protocol Inspection in Azure Virtual Environments](https://github.com/leejack40/azure-network-protocols)
   - [Configuring Secure Connectivity: Virtual Machine Deployment and VPN Setup in Microsoft Azure](https://github.com/leejack40/VPN-Setup)
   - [Understanding and Implementing DNS Management Techniques in Microsoft Azure](https://github.com/leejack40/DNS-Management)
+  - [Azure File Share Setup and Access Control Management](https://github.com/leejack40/file-shares-and-permissions)
 
 <h2>🤳Connect with me:</h2>
 
