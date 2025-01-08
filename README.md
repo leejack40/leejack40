@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/leejack40/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/leejack40/azure-network-protocols)
   - [Configuring Secure Connectivity: Virtual Machine Deployment and VPN Setup in Microsoft Azure](https://github.com/leejack40/VPN-Setup)
+  - [Understanding and Implementing DNS Management Techniques in Microsoft Azure](https://github.com/leejack40/DNS-Management)
 
 <h2>🤳Connect with me:</h2>
 
