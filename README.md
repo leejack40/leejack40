@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lee, an <a href="https://linkedin.com/in/lee-jackson-b85a08174">Aspiring IT Professional</a></h1>
+<h1>Hi, I'm Lee, an <a href="https://linkedin.com/in/lee-jackson-b85a08174">Aspiring Cybersecuirty Professional</a></h1>
 
 <p>Passionate about creating secure and efficient systems that keep up with the constantly changing world of technology.</p>
 
