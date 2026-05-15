@@ -16,6 +16,10 @@
   - [Configuring Secure Connectivity: Virtual Machine Deployment and VPN Setup in Microsoft Azure](https://github.com/leejack40/VPN-Setup)
   - [Understanding and Implementing DNS Management Techniques in Microsoft Azure](https://github.com/leejack40/DNS-Management)
   - [Azure File Share Setup and Access Control Management](https://github.com/leejack40/file-shares-and-permissions)
+<h2>🔐 IAM Projects:</h2>
+
+<b>Microsoft Entra ID</b>
+- [Microsoft Entra ID: MFA & Conditional Access Security Implementation](https://github.com/leejack40/YOUR-REPO-NAME)
 
 <h2>🤳Connect with me:</h2>
 
