@@ -19,7 +19,7 @@
 <h2>🔐 IAM Projects:</h2>
 
 <b>Microsoft Entra ID</b>
-- [Microsoft Entra ID: MFA & Conditional Access Security Implementation](https://github.com/leejack40/YOUR-REPO-NAME)
+- [Microsoft Entra ID: MFA & Conditional Access Security Implementation](https://github.com/leejack40/entra-id-mfa-conditional-access)
 
 <h2>🤳Connect with me:</h2>
 
